@@ -1,0 +1,11 @@
+flask
+numpy
+pandas
+datetime
+requests
+gunicorn
+opencv-contrib-python-headless
+pytest
+scipy
+scikit-learn
+python-dotenv
